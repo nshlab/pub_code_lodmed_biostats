@@ -1,0 +1,23 @@
+variable,definition,coding,used_for
+A,Randomized treatment assignment (0 = placebo; 1 = amubarvimab/romlusevimab).,0; 1,Mediation; Table S1; Figure 2/QC
+Y,Hospitalization or death after Day 3 through Day 28 (1 = yes; 0 = no).,0; 1,Mediation outcome; Table S1
+age,Age at baseline (years; values above 80 recorded as >80).,Numeric source age strings or >80; no recoding in CSV,Table S1 age; mediation adjustment source
+sex,Sex (female or male).,F; M,Table S1; mediation adjustment source
+bmi_cat,Baseline body mass index category.,Normal; Obese; Overweight; Underweight,Table S1; mediation adjustment source
+symptom_duration,Days from symptom onset to enrollment.,"Original numeric tokens; no rescaling, replacement or imputation",Table S1; mediation adjustment
+race,Race category.,BLACK OR AFRICAN AMERICAN; OTHER; WHITE,Table S1; broader imputation-adjustment source
+ethnicity,Hispanic or Latino ethnicity.,HISPANIC OR LATINO; NOT HISPANIC OR LATINO,Table S1; broader imputation-adjustment source
+country,Country group (USA or non-USA).,Non-USA; USA,Table S1
+vaccine,Vaccination status (yes or no).,No; Yes,Table S1; broader imputation-adjustment source
+CURSMOKR,Current smoking status (yes or no).,No; Yes,Table S1; mediation adjustment
+CVD,Cardiovascular disease (yes or no).,No; Yes,Table S1
+DIAB,Diabetes (yes or no).,No; Yes,Table S1; mediation adjustment
+HPTN,Hypertension (yes or no).,No; Yes,Table S1; mediation adjustment
+id,Participant identifier.,"Original sequential key, 1-749; not an anonymization guarantee",Participant linkage and necessary cohort QC; Figure 2
+day0_value,Anterior nasal swab SARS-CoV-2 RNA at Day 0 (log10 copies/mL).,"Original numeric tokens; no rescaling, replacement or imputation",Figure 2; Table S1 baseline
+day2_value,Anterior nasal swab SARS-CoV-2 RNA at Day 2 (log10 copies/mL).,"Original numeric tokens; no rescaling, replacement or imputation",Figure 2; Day 3 +/-1-day selection; mediator source
+day3_value,Anterior nasal swab SARS-CoV-2 RNA at Day 3 (log10 copies/mL).,"Original numeric tokens; no rescaling, replacement or imputation",Figure 2; Day 3 +/-1-day selection; mediator source
+day4_value,Anterior nasal swab SARS-CoV-2 RNA at Day 4 (log10 copies/mL).,"Original numeric tokens; no rescaling, replacement or imputation",Figure 2; Day 3 +/-1-day selection; mediator source
+day7_value,Anterior nasal swab SARS-CoV-2 RNA at Day 7 (log10 copies/mL).,"Original numeric tokens; no rescaling, replacement or imputation",Figure 2
+day14_value,Anterior nasal swab SARS-CoV-2 RNA at Day 14 (log10 copies/mL).,"Original numeric tokens; no rescaling, replacement or imputation",Figure 2
+day28_value,Anterior nasal swab SARS-CoV-2 RNA at Day 28 (log10 copies/mL).,"Original numeric tokens; no rescaling, replacement or imputation",Figure 2

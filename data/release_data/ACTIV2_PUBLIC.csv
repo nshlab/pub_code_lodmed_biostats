@@ -1,0 +1,750 @@
+"A","Y","age","sex","bmi_cat","symptom_duration","race","ethnicity","country","vaccine","CURSMOKR","CVD","DIAB","HPTN","id","day0_value","day2_value","day3_value","day4_value","day7_value","day14_value","day28_value"
+1,0,"63","F","Overweight",6,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",1,6.99,5.25,4.67,3.09,2.74,1.7,0.7
+0,0,"44","F","Obese",6,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","Yes","No","Yes","No",2,0.7,0.7,0.7,0.7,0.7,0.7,0.7
+1,0,"62","M","Obese",7,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",3,6.32,4.14,2.61,1.7,1.7,0.7,
+0,0,"43","F","Obese",6,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",4,1.7,0.7,0.7,1.7,0.7,0.7,0.7
+0,0,"38","M","Normal",5,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","Yes",5,7.74,5.56,6.06,5.45,2.22,1.7,0.7
+1,0,"64","M","Normal",6,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",6,7.69,5.54,4.84,3.14,2.06,,0.7
+0,0,"35","M","Obese",4,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",7,0.7,6.43,6.95,6.69,5.49,,0.7
+0,0,"57","M","Obese",6,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",8,6.3,,,,,,
+1,0,"29","M","Overweight",8,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",9,0.7,0.7,,0.7,0.7,0.7,0.7
+1,0,"41","F","Normal",6,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","No","No","Yes","Yes",10,,0.7,0.7,0.7,0.7,0.7,0.7
+0,0,"59","F","Normal",8,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",11,0.7,,0.7,,0.7,,0.7
+1,0,"25","M","Overweight",6,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",12,5.17,,1.7,,1.7,0.7,0.7
+0,0,"54","F","Obese",8,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",13,2.28,2.3,1.7,1.7,1.7,0.7,0.7
+1,0,"51","F","Obese",9,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","Yes",14,1.7,0.7,,0.7,,0.7,0.7
+0,0,"54","M","Obese",6,"WHITE","HISPANIC OR LATINO","USA","No","No","Yes","No","Yes",15,4.21,6.03,4.58,1.7,0.7,0.7,0.7
+1,0,"60","F","Obese",9,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",16,,5.04,3.51,2.11,1.7,1.7,0.7
+1,0,"72","F","Normal",9,"WHITE","HISPANIC OR LATINO","USA","No","No","Yes","No","Yes",17,1.7,1.7,1.7,2.55,1.7,,0.7
+0,0,"68","M","Overweight",7,"OTHER","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",18,4.61,4.29,4,3.44,3.55,,2.59
+1,0,"52","M","Obese",10,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",19,0.7,0.7,0.7,0.7,1.7,,0.7
+1,0,"73","F","Normal",5,"WHITE","HISPANIC OR LATINO","USA","No","No","No","Yes","Yes",20,6.4,4.76,4.12,3.15,2.36,0.7,1.7
+1,0,"66","M","Overweight",10,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",21,3.24,2.98,2.69,0.7,1.7,,0.7
+0,0,"62","F","Obese",5,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",22,3.02,2.47,1.7,0.7,0.7,,0.7
+0,0,"47","M","Obese",7,"OTHER","HISPANIC OR LATINO","USA","No","No","Yes","Yes","Yes",23,4.74,3.07,1.7,0.7,0.7,,0.7
+0,0,"62","F","Overweight",7,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",24,3.27,3.34,2.23,2.3,1.7,0.7,0.7
+0,0,"60","F","Normal",7,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",25,5.65,4.29,5.12,4.45,1.7,,0.7
+1,0,"49","F","Overweight",4,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",26,5.38,,2.02,,0.7,0.7,0.7
+0,0,"28","F","Obese",7,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",27,2.02,,0.7,,0.7,1.7,0.7
+0,0,"73","F","Obese",8,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","No","No","Yes","Yes",28,1.7,0.7,0.7,0.7,0.7,0.7,0.7
+0,0,"44","M","Overweight",10,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","No",29,2.43,1.7,1.7,0.7,0.7,0.7,0.7
+1,0,"37","M","Underweight",5,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",30,2.43,,0.7,,0.7,0.7,0.7
+0,0,"54","F","Obese",7,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","Yes",31,1.7,,0.7,,1.7,0.7,0.7
+0,0,"41","F","Obese",8,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","Yes","No","No","No","No",32,3.85,1.7,1.7,0.7,0.7,,0.7
+1,0,"57","M","Obese",7,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",33,4.26,0.7,1.7,1.7,0.7,0.7,0.7
+0,0,"52","F","Obese",7,"WHITE","HISPANIC OR LATINO","USA","No","No","No","Yes","No",34,4.1,2.85,2.19,1.7,0.7,0.7,0.7
+1,0,"60","M","Normal",7,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",35,0.7,1.7,0.7,1.7,2.54,0.7,0.7
+1,0,"26","F","Normal",7,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",36,2.44,,0.7,,0.7,,0.7
+1,0,"51","M","Overweight",9,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",37,3.96,1.7,0.7,0.7,1.7,0.7,0.7
+0,0,"71","M","Overweight",4,"WHITE","NOT HISPANIC OR LATINO","USA","Yes","No","No","Yes","Yes",38,9,,4.46,,3.52,1.7,0.7
+0,0,"61","F","Overweight",3,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",39,5.99,4.55,4.99,3.62,2.3,0.7,0.7
+1,0,"41","F","Overweight",5,"OTHER","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",40,0.7,0.7,,0.7,0.7,0.7,0.7
+0,0,"53","M","Overweight",4,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",41,7.48,,6.34,,2.23,0.7,0.7
+1,0,"51","F","Obese",10,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",42,3.96,1.7,0.7,,0.7,1.7,
+1,0,"61","M","Obese",10,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","Yes","Yes",43,2.94,2.73,3.18,1.7,,0.7,0.7
+0,0,"57","M","Overweight",7,"OTHER","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",44,,,,3.17,,,0.7
+1,0,"47","M","Obese",6,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",45,,4.42,,3.66,,,0.7
+0,0,"31","M","Obese",6,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",46,,,1.7,0.7,,,0.7
+1,0,"48","F","Obese",9,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",47,,1.7,2.38,,1.7,0.7,0.7
+0,0,"60","M","Obese",8,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","Yes","Yes",48,5.43,4.76,4.8,3.96,4.54,1.7,2.37
+1,0,"29","M","Obese",6,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",49,0.7,1.7,,,0.7,0.7,0.7
+0,0,"38","F","Obese",10,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",50,2.5,1.7,2.61,2.44,1.7,1.7,0.7
+0,0,"38","M","Obese",9,"OTHER","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",51,3.09,2.2,1.7,1.7,,0.7,0.7
+0,0,"34","M","Overweight",10,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",52,1.7,1.7,0.7,0.7,0.7,0.7,0.7
+0,0,"42","M","Obese",8,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",53,5.84,4.97,3.91,1.7,1.7,0.7,0.7
+0,0,"52","M","Obese",6,"OTHER","NOT HISPANIC OR LATINO","USA","No","No","Yes","No","No",54,6.83,3.81,3.62,1.7,,,0.7
+1,0,"46","M","Obese",7,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","Yes","Yes",55,2.75,1.7,0.7,0.7,1.7,1.7,0.7
+1,0,"24","F","Overweight",7,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",56,1.7,,,1.7,1.7,1.7,0.7
+1,0,"60","M","Overweight",9,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",57,3.41,1.7,,0.7,1.7,0.7,0.7
+1,0,"60","F","Overweight",8,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",58,5.46,2.35,2.63,0.7,1.7,1.7,0.7
+0,0,"18","M","Obese",3,"BLACK OR AFRICAN AMERICAN","HISPANIC OR LATINO","USA","No","No","No","No","No",59,8,,5.07,,1.7,,0.7
+0,0,"68","M","Overweight",8,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","Yes","Yes","Yes",60,8.98,6.95,6.43,5.84,4.89,0.7,0.7
+1,0,"36","F","Overweight",3,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","Yes","No",61,7.19,3.22,2.01,2.59,0.7,,0.7
+0,0,"50","F","Obese",3,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",62,7.85,7.32,,4.92,,1.7,0.7
+1,0,"23","F","Normal",7,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",63,5.11,,,,,,
+0,0,"34","F","Obese",5,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",64,4.89,,2.01,,1.7,,0.7
+1,0,"41","F","Obese",3,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",65,7.01,,2.39,,0.7,1.7,0.7
+1,0,"40","F","Obese",7,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",66,3.9,,1.7,,0.7,0.7,0.7
+0,1,"58","F","Obese",3,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",67,7.03,,,5.84,,,
+1,0,"31","F","Obese",4,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",68,5.85,,5.2,,3.43,1.7,1.7
+1,0,"58","M","Obese",8,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",69,1.7,1.7,0.7,0.7,0.7,0.7,0.7
+0,0,"44","M","Obese",9,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",70,2.18,1.7,2.18,1.7,0.7,0.7,4.68
+1,0,"68","M","Overweight",7,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",71,3.16,,0.7,1.7,0.7,0.7,0.7
+0,0,"53","F","Normal",6,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",72,6.83,5.18,5.66,5.11,4.81,,0.7
+1,0,"57","M","Obese",4,"WHITE","HISPANIC OR LATINO","USA","No","No","No","Yes","Yes",73,6.89,6.13,4.38,,,1.7,0.7
+0,0,"59","F","Overweight",8,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",74,,0.7,0.7,0.7,0.7,,0.7
+0,0,"61","F","Normal",7,"OTHER","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",75,,3.5,2.86,2.37,3.5,0.7,0.7
+1,0,"41","F","Obese",3,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",76,,0.7,,0.7,0.7,0.7,0.7
+1,0,"52","M","Obese",6,"WHITE","HISPANIC OR LATINO","USA","No","No","Yes","Yes","Yes",77,2.33,,2.56,,,,0.7
+1,0,"76","M","Overweight",3,"WHITE","HISPANIC OR LATINO","USA","No","No","Yes","No","Yes",78,5.81,,4.58,,1.7,0.7,0.7
+1,0,"43","F","Obese",7,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","Yes",79,3.45,,0.7,,,,0.7
+0,0,"48","M","Obese",7,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",80,3.55,4.78,,,1.7,,0.7
+1,0,"45","F","Obese",7,"OTHER","HISPANIC OR LATINO","USA","No","No","No","No","No",81,5.23,,3.27,,1.7,,1.7
+1,0,"66","F","Overweight",6,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",82,1.7,1.7,0.7,0.7,,0.7,0.7
+0,0,"44","F","Obese",7,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",83,3.19,2.81,1.7,,0.7,0.7,0.7
+0,0,"63","F","Obese",9,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",84,0.7,0.7,,,,0.7,0.7
+0,0,"41","F","Obese",8,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",85,,,,0.7,0.7,0.7,0.7
+0,0,"60","M","Overweight",4,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",86,,6.93,5.99,5.43,2.67,0.7,0.7
+1,0,"40","F","Overweight",6,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",87,1.7,3.57,,,0.7,0.7,0.7
+0,0,"19","F","Obese",6,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",88,3.08,,,0.7,1.7,0.7,0.7
+1,0,"61","M","Overweight",5,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","Yes","No","No","No","Yes",89,0.7,,0.7,,0.7,0.7,0.7
+0,0,"74","F","Obese",8,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",90,3.05,,,1.7,0.7,0.7,1.7
+1,0,"28","F","Normal",7,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",91,0.7,0.7,,,,,0.7
+0,0,"33","M","Obese",6,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",92,3.59,,5.61,,4.3,1.7,0.7
+0,0,"62","F","Normal",7,"WHITE","NOT HISPANIC OR LATINO","USA","Yes","","","","",93,5.43,,2.79,,1.7,0.7,0.7
+1,0,"44","F","Obese",3,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",94,8.13,,4.88,,2.09,0.7,0.7
+1,0,"55","F","Obese",7,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","Yes","No",95,1.7,,1.7,,0.7,0.7,0.7
+1,0,"30","M","Obese",7,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",96,4.03,0.7,0.7,0.7,0.7,,0.7
+1,0,"61","F","",6,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",97,0.7,2.74,,0.7,0.7,0.7,0.7
+0,0,"59","M","Overweight",3,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",98,8.02,6.35,6.04,4.95,,1.7,0.7
+1,0,"57","F","",6,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",99,5.56,3.64,,4.49,1.7,,0.7
+0,0,"29","M","",4,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",100,4.59,3.95,,3.29,1.7,,0.7
+0,0,"64","M","Overweight",7,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","Yes","No","Yes",101,6.85,5.79,,5.22,,,1.7
+1,0,"66","M","Obese",7,"OTHER","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",102,5.39,4.83,2.24,2.54,0.7,,0.7
+0,0,"66","F","Overweight",5,"OTHER","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",103,6.19,3.75,3.46,2.37,,,0.7
+0,0,"29","F","Normal",3,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","Yes","No","No",104,0.7,0.7,0.7,0.7,0.7,0.7,0.7
+1,0,"55","M","Obese",4,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",105,9.23,6.81,,4.09,,0.7,0.7
+1,0,"47","F","Overweight",4,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",106,5.56,3.21,2.99,2.62,0.7,,0.7
+0,0,"31","M","Normal",6,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",107,4.78,4.22,3.81,2.1,,,0.7
+0,0,"52","F","Overweight",6,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",108,4.81,3.12,3.15,3.8,2.49,1.7,1.7
+1,0,"35","M","Obese",5,"OTHER","HISPANIC OR LATINO","USA","No","Yes","No","No","No",109,3.94,,1.7,,0.7,,0.7
+1,0,"63","M","Overweight",6,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",110,5.57,3.12,2.84,1.7,1.7,1.7,0.7
+0,0,"45","M","Obese",3,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","Yes","Yes","Yes",111,5.6,7.65,7.48,6.87,3.32,,1.7
+0,0,"45","F","Overweight",7,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",112,5.19,4.56,2.31,4.2,0.7,,0.7
+1,0,"41","M","Obese",3,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",113,6.97,3.91,2.15,0.7,1.7,,0.7
+0,0,"51","M","Overweight",9,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","Yes",114,2.88,1.7,2.86,0.7,0.7,1.7,0.7
+0,0,"62","F","Obese",7,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","Yes","No",115,4.16,3.47,2.56,1.7,0.7,,0.7
+1,0,"59","F","Normal",10,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",116,1.7,2.04,0.7,0.7,0.7,0.7,0.7
+0,0,"54","M","Overweight",10,"WHITE","HISPANIC OR LATINO","USA","No","Yes","Yes","No","No",117,0.7,1.7,1.7,0.7,1.7,1.7,
+0,0,"30","M","Normal",10,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",118,0.7,0.7,0.7,0.7,0.7,0.7,
+1,0,"66","F","Obese",9,"OTHER","HISPANIC OR LATINO","USA","No","No","No","No","Yes",119,2.68,2.52,2.9,1.7,1.7,0.7,0.7
+1,0,"57","M","Obese",9,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",120,0.7,1.7,0.7,0.7,0.7,0.7,0.7
+0,0,"69","F","Obese",9,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","No","No","Yes","Yes",121,2.09,0.7,0.7,1.7,0.7,0.7,
+1,0,"42","M","Obese",10,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","Yes","No",122,5.35,3.68,,1.7,0.7,1.7,
+1,0,"60","M","Normal",4,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",123,4.48,1.7,1.7,1.7,0.7,0.7,
+0,0,"23","F","Underweight",9,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",124,0.7,0.7,,,0.7,,
+0,0,"24","M","Overweight",9,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",125,1.7,0.7,,1.7,0.7,,0.7
+0,0,"63","F","Overweight",8,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",126,3.32,,,,,,
+1,0,"57","M","Obese",9,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",127,,2.04,0.7,0.7,0.7,0.7,
+1,0,"21","F","Normal",8,"OTHER","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",128,0.7,0.7,1.7,0.7,0.7,,
+0,0,"22","M","Underweight",8,"OTHER","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",129,3,0.7,1.7,1.7,0.7,,
+0,0,"48","F","Obese",6,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",130,,,1.7,1.7,,0.7,0.7
+1,0,"48","M","Overweight",5,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","Yes",131,,0.7,1.7,,1.7,,
+1,0,"47","F","Overweight",5,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","No",132,,,2.85,2.6,1.7,0.7,
+0,0,"48","M","Obese",10,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",133,0.7,0.7,0.7,0.7,0.7,0.7,
+1,0,"39","F","Normal",10,"OTHER","HISPANIC OR LATINO","USA","No","Yes","No","No","Yes",134,2.39,0.7,0.7,0.7,,,
+1,0,"63","F","Overweight",7,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",135,4.62,2.13,0.7,0.7,0.7,0.7,
+1,0,"63","M","Overweight",7,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",136,7.22,4.48,,0.7,0.7,0.7,
+1,0,"39","F","Overweight",6,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","No",137,3.33,1.7,0.7,0.7,0.7,,
+1,0,"22","F","Normal",7,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",138,4.87,,2.34,0.7,0.7,,0.7
+0,0,"72","M","Overweight",8,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",139,3.57,2.65,2.16,0.7,0.7,0.7,0.7
+1,0,"40","M","Obese",9,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",140,1.7,,4.2,3.74,0.7,,0.7
+1,0,"74","M","Overweight",7,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","Yes","Yes",141,1.7,,1.7,1.7,1.7,1.7,0.7
+0,0,"43","F","Obese",10,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","Yes",142,0.7,1.7,,0.7,0.7,,0.7
+1,0,"41","F","Underweight",8,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",143,0.7,0.7,1.7,0.7,,0.7,0.7
+0,0,"49","F","Overweight",7,"OTHER","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",144,5.81,4.13,3.93,2.91,,0.7,0.7
+1,0,"34","M","Overweight",7,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","No",145,3.4,,,0.7,0.7,0.7,0.7
+1,0,"26","F","Normal",1,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",146,,4.72,4.81,4.7,2.04,1.7,0.7
+1,0,"38","M","Overweight",2,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",147,,3.77,2.81,1.7,2.81,0.7,1.7
+1,0,"52","M","Obese",8,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",148,4.24,1.7,0.7,1.7,,,
+0,0,"55","F","Obese",6,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",149,0.7,,0.7,,0.7,0.7,0.7
+1,0,"54","F","Overweight",1,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",150,8.13,,4.71,,1.7,0.7,0.7
+1,0,"57","F","Obese",5,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",151,0.7,,,1.7,1.7,,
+0,0,"46","F","Overweight",8,"OTHER","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",152,5.09,3.06,,,0.7,,1.7
+1,0,"43","M","Normal",4,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","Yes",153,8.27,,2.27,,1.7,,
+0,0,"21","F","Normal",6,"OTHER","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",154,4.96,,,4.24,,,
+0,0,"46","F","Overweight",4,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",155,6.02,,3.78,,3.38,,
+1,0,"42","F","Normal",7,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",156,3,,1.7,,,,0.7
+0,0,"52","M","Overweight",4,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",157,7.13,6.04,5.64,4.95,,,
+1,0,"58","F","Normal",5,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",158,1.7,,0.7,0.7,,,
+1,0,"67","F","Overweight",4,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",159,,5.57,,1.7,,,
+1,0,"38","M","Overweight",5,"OTHER","NOT HISPANIC OR LATINO","USA","No","No","No","Yes","No",160,,,,,,,0.7
+0,0,"29","M","Normal",3,"OTHER","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",161,,,,,,,0.7
+1,0,"62","M","Obese",6,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",162,6.59,4.22,,5.16,1.7,0.7,0.7
+0,0,"64","M","Overweight",5,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","Yes",163,3.85,,2.98,2.46,0.7,3.35,0.7
+1,0,"49","F","Normal",5,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",164,0.7,0.7,,,,,0.7
+0,0,"49","F","Normal",5,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",165,5.33,4.29,,,,,
+1,0,"53","M","Normal",8,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","No","Yes","No","No",166,2.6,,,0.7,0.7,1.7,0.7
+1,0,"42","F","Obese",10,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",167,3.08,1.7,0.7,1.7,0.7,,0.7
+1,0,"40","M","Overweight",10,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","Yes",168,2.37,2.96,1.7,1.7,0.7,,0.7
+1,0,"47","M","Overweight",3,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",169,3.77,2.29,,1.7,0.7,,0.7
+1,0,"47","F","Overweight",4,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",170,2.3,0.7,,1.7,0.7,0.7,0.7
+1,0,"55","F","Obese",10,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",171,2.73,0.7,,1.7,0.7,0.7,0.7
+0,0,"63","M","Overweight",5,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","Yes","No","Yes",172,4.28,4.27,3.89,2.52,,0.7,0.7
+1,0,"56","F","Obese",6,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",173,3.63,1.7,1.7,1.7,,,0.7
+0,0,"53","M","Overweight",5,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",174,4.74,3.41,,1.7,0.7,0.7,0.7
+1,0,"52","M","Obese",8,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",175,4.87,2.56,3.38,2.72,0.7,0.7,0.7
+1,0,"37","F","Obese",5,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",176,0.7,0.7,0.7,0.7,0.7,0.7,0.7
+0,0,"60","F","Obese",6,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","Yes","Yes",177,0.7,,0.7,,0.7,0.7,0.7
+0,0,"34","F","Obese",10,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",178,0.7,0.7,1.7,1.7,1.7,0.7,0.7
+0,0,"37","F","Obese",3,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","Yes","No","Yes","No",179,,,,,,,
+0,0,"53","F","Obese",4,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",180,4.77,,5.51,,,0.7,1.7
+0,0,"47","M","Obese",5,"WHITE","NOT HISPANIC OR LATINO","USA","Yes","Yes","No","No","No",181,7.24,,,4.07,,,1.7
+1,0,"45","M","Obese",7,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",182,3.39,,3.28,,2.7,0.7,0.7
+1,0,"22","F","Obese",6,"OTHER","HISPANIC OR LATINO","USA","No","No","No","No","No",183,2.07,1.7,1.7,1.7,1.7,1.7,0.7
+1,0,"62","F","Overweight",3,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",184,,6.34,3.15,2.04,1.7,0.7,0.7
+1,0,"64","F","Obese",5,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",185,0.7,,0.7,,0.7,0.7,0.7
+0,0,"57","M","Obese",6,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",186,3.66,3.98,2.65,1.7,1.7,0.7,0.7
+0,0,"45","M","Obese",7,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","Yes","No","Yes",187,3.61,1.7,2.54,1.7,1.7,,0.7
+0,0,"50","M","Obese",4,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",188,2.98,1.7,2.96,0.7,1.7,0.7,0.7
+0,0,"54","M","Overweight",6,"WHITE","HISPANIC OR LATINO","USA","No","No","No","Yes","Yes",189,7.15,5.01,6.08,2.98,3.16,0.7,0.7
+1,0,"66","M","Obese",2,"WHITE","HISPANIC OR LATINO","USA","No","No","No","Yes","Yes",190,4.12,3.63,3.05,1.7,1.7,,0.7
+0,0,"43","M","Overweight",2,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",191,4.8,3.04,3.72,1.7,1.7,0.7,0.7
+0,0,"42","M","Obese",2,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",192,6.55,4.79,3.79,4.61,2.64,,0.7
+0,0,"43","F","Obese",2,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",193,6.04,3.18,3.01,3.87,3.12,,
+1,0,"38","F","Obese",2,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",194,5.33,,,,1.7,,
+1,0,"38","F","Overweight",5,"BLACK OR AFRICAN AMERICAN","HISPANIC OR LATINO","USA","No","No","No","No","Yes",195,3.67,,0.7,0.7,0.7,0.7,0.7
+0,0,"36","F","Obese",4,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",196,5.18,4,1.7,,,0.7,0.7
+1,0,"54","F","Obese",3,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",197,6.93,4,,3.4,0.7,1.7,
+1,0,"70","M","Overweight",4,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",198,,4.76,2.91,0.7,5.43,,0.7
+1,0,"19","M","Normal",3,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",199,,0.7,3.4,1.7,1.7,0.7,0.7
+0,1,"56","M","Obese",3,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",200,,1.7,1.7,1.7,0.7,,
+0,0,"36","M","Obese",3,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",201,,5.96,5.45,3.49,1.7,,0.7
+0,0,"30","F","Obese",2,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",202,,3.19,0.7,0.7,0.7,1.7,0.7
+1,0,"75","M","Normal",3,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",203,6.93,4.88,5.43,4.53,,0.7,4.97
+1,0,"62","F","Obese",7,"BLACK OR AFRICAN AMERICAN","HISPANIC OR LATINO","USA","No","No","No","No","No",204,6.65,1.7,2.68,3.89,,0.7,
+0,0,"69","M","Overweight",2,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",205,7.92,5.21,6.11,5.7,3.9,0.7,
+0,0,"63","F","Overweight",3,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",206,1.7,1.7,1.7,0.7,0.7,,0.7
+1,0,"63","F","Normal",4,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","No",207,5.91,4.65,5.21,2.24,1.7,0.7,0.7
+0,0,"63","M","Overweight",3,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",208,4.42,,,6.14,,1.7,
+1,0,"42","F","Normal",5,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",209,6.23,,4.1,3.02,3.23,,0.7
+0,1,"26","M","Obese",2,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",210,0.7,6.34,2.34,6.03,,,0.7
+0,0,"22","M","Obese",7,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",211,1.7,0.7,0.7,,0.7,0.7,0.7
+1,0,"45","F","Obese",2,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",212,0.7,0.7,,,,0.7,0.7
+0,0,"42","F","Overweight",6,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",213,1.7,1.7,,,,0.7,0.7
+1,0,"60","F","Obese",7,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",214,0.7,,,0.7,0.7,0.7,
+0,0,"46","M","Overweight",3,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",215,3.83,,,1.7,0.7,,0.7
+1,0,"28","F","Overweight",2,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",216,7.51,,,3.35,0.7,,
+1,0,"42","F","Obese",7,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",217,5.13,,4.29,,3.6,,0.7
+0,0,"43","M","Overweight",6,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",218,1.7,,1.7,,1.7,0.7,0.7
+1,0,"54","M","Overweight",6,"WHITE","HISPANIC OR LATINO","USA","No","No","No","Yes","Yes",219,5.11,2.71,,,1.7,,1.7
+1,0,"59","M","Overweight",3,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",220,5.56,,,1.7,1.7,0.7,0.7
+0,0,"63","M","Obese",3,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","Yes","No",221,7.33,,6.92,,3.43,,0.7
+0,0,"55","F","Obese",3,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",222,3.09,,0.7,,1.7,0.7,0.7
+1,0,"38","M","Obese",5,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",223,2.97,,1.7,,1.7,0.7,
+1,0,"56","F","Obese",2,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",224,0.7,,,0.7,0.7,0.7,0.7
+0,0,"50","F","Overweight",6,"WHITE","HISPANIC OR LATINO","USA","No","No","No","Yes","Yes",225,4,,2.57,,0.7,,0.7
+0,0,"67","M","Obese",4,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",226,0.7,0.7,,,0.7,0.7,1.7
+1,0,"47","M","Obese",5,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",227,5.13,2.54,,,0.7,,0.7
+0,1,"44","F","Normal",2,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",228,7.63,5.67,,,4.36,,0.7
+0,0,"59","F","Obese",4,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",229,0.7,,0.7,,0.7,0.7,0.7
+0,0,"27","F","Overweight",3,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",230,6.59,,,3.96,1.7,,0.7
+1,0,"39","F","Obese",3,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",231,8,,,3.22,2.19,1.7,0.7
+1,0,"38","M","Overweight",2,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",232,4.79,,1.7,,1.7,1.7,0.7
+1,0,"64","M","Overweight",3,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",233,0.7,0.7,,,2.24,1.7,0.7
+1,0,"57","F","Overweight",3,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",234,4.92,4.64,,,0.7,0.7,
+0,0,"55","F","Overweight",2,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",235,0.7,,,0.7,0.7,0.7,0.7
+1,0,"66","M","Obese",2,"WHITE","HISPANIC OR LATINO","USA","No","No","No","Yes","Yes",236,0.7,,0.7,,,,0.7
+0,0,"39","M","Normal",2,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",237,4.56,,4.06,,3.16,0.7,0.7
+0,0,"61","F","Overweight",3,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",238,0.7,,0.7,,0.7,0.7,0.7
+0,0,"41","M","Obese",3,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",239,1.7,0.7,,,1.7,0.7,0.7
+0,0,"43","F","Obese",3,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",240,5.63,5.3,,,3.78,0.7,0.7
+0,0,"64","M","Overweight",4,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",241,1.7,0.7,,,,0.7,0.7
+0,1,"60","F","Overweight",3,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",242,6.62,,4.88,,,,
+0,0,"58","F","Obese",5,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",243,0.7,,0.7,,0.7,0.7,0.7
+0,0,"48","M","Obese",4,"WHITE","HISPANIC OR LATINO","USA","No","No","No","Yes","Yes",244,5.47,,3.32,,,0.7,0.7
+1,0,"42","F","Obese",2,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",245,0.7,,0.7,,,,0.7
+0,0,"32","M","Obese",5,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",246,,,2.52,,,0.7,0.7
+0,0,"52","F","Obese",2,"WHITE","HISPANIC OR LATINO","USA","No","No","No","Yes","No",247,6.27,,0.7,,3.14,,0.7
+0,0,"64","F","Overweight",3,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",248,6.06,,4.62,,1.7,0.7,0.7
+1,0,"53","F","Overweight",1,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",249,0.7,,0.7,,0.7,0.7,0.7
+1,0,"21","F","Obese",3,"WHITE","HISPANIC OR LATINO","USA","No","No","No","Yes","No",250,0.7,6.01,,,,,0.7
+0,0,"45","F","Obese",3,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",251,0.7,0.7,,,,,0.7
+0,0,"55","F","Obese",6,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",252,0.7,0.7,,,,0.7,0.7
+0,0,"34","M","Obese",6,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",253,0.7,0.7,,,0.7,,0.7
+0,0,"61","M","Overweight",4,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",254,5.69,,,,3.73,1.7,0.7
+0,1,"68","F","Obese",3,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",255,6.22,,,,,,0.7
+0,1,"46","M","Obese",2,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",256,5.62,,4.93,,,,1.7
+0,0,"53","F","Obese",5,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",257,3.47,1.7,,,,,0.7
+0,0,"36","F","Obese",3,"WHITE","HISPANIC OR LATINO","USA","No","No","No","Yes","No",258,7.31,,,6.69,5.41,0.7,0.7
+1,0,"56","M","Obese",4,"WHITE","HISPANIC OR LATINO","USA","No","No","No","Yes","Yes",259,9,,5.49,,7.48,4.72,0.7
+0,1,"54","F","Overweight",4,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",260,5.95,,5.53,,1.7,0.7,0.7
+0,0,"52","M","Overweight",3,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",261,3,,0.7,,1.7,0.7,0.7
+0,0,"52","M","Obese",2,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",262,4.74,6,,,0.7,0.7,0.7
+0,0,"46","M","Obese",3,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",263,5.4,1.7,,,1.7,,0.7
+1,0,"43","F","Obese",4,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",264,6.55,5.83,,,2.26,,0.7
+1,0,"57","F","Overweight",2,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",265,4.44,6.69,,,6.79,0.7,
+1,0,"51","M","Overweight",4,"WHITE","HISPANIC OR LATINO","USA","No","No","No","Yes","No",266,3.49,,,0.7,1.7,0.7,
+0,0,"40","F","Normal",6,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",267,6.16,,2.34,,1.7,0.7,0.7
+1,0,"61","F","Overweight",4,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",268,2.53,,0.7,,1.7,3.01,0.7
+0,0,"47","F","Obese",2,"WHITE","HISPANIC OR LATINO","USA","No","No","No","Yes","No",269,0.7,,4.29,,2.76,0.7,0.7
+1,0,"57","F","Overweight",3,"WHITE","HISPANIC OR LATINO","USA","No","No","No","Yes","Yes",270,0.7,,3.61,,0.7,0.7,0.7
+0,1,">80","F","Overweight",3,"WHITE","HISPANIC OR LATINO","USA","No","No","No","Yes","Yes",271,9,,6.02,,6.23,2.69,0.7
+0,0,"54","F","Obese",3,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",272,0.7,,0.7,,0.7,0.7,0.7
+1,0,"61","F","Normal",2,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",273,4.2,,2.35,,0.7,,0.7
+0,0,"50","M","Obese",2,"WHITE","HISPANIC OR LATINO","USA","No","No","No","Yes","No",274,3.77,3.65,,,5.11,1.7,0.7
+0,0,"41","M","Overweight",3,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",275,7.29,,,4.1,3.68,0.7,0.7
+1,0,"59","M","Obese",5,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",276,4.08,,,4.48,,,0.7
+0,0,"41","M","Obese",4,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","No",277,5.24,,,1.7,,,0.7
+1,0,"45","F","Obese",4,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",278,5.63,,,4.21,,0.7,0.7
+1,0,"28","M","Obese",4,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",279,4.17,,0.7,,1.7,0.7,0.7
+0,0,"37","F","Overweight",3,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",280,,,5.61,,,,0.7
+1,0,"43","F","Obese",5,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",281,0.7,,0.7,,0.7,0.7,0.7
+1,0,"59","M","Overweight",3,"WHITE","HISPANIC OR LATINO","USA","No","No","No","Yes","Yes",282,3.53,,0.7,,1.7,0.7,0.7
+1,0,"79","F","Obese",4,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",283,4.76,,3.01,,0.7,0.7,0.7
+0,0,"79","M","Overweight",4,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",284,5.39,,5.07,,0.7,0.7,0.7
+0,0,"43","M","Obese",3,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",285,5.72,,6.28,,3.76,0.7,0.7
+1,0,"71","F","Overweight",7,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",286,5.38,,5.12,,0.7,,0.7
+1,0,"25","M","Obese",4,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",287,3.75,,1.7,,0.7,0.7,0.7
+0,0,"57","F","Obese",3,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",288,5.16,,,,5.12,,
+0,0,"26","F","Obese",1,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",289,5.03,2.45,,,0.7,0.7,0.7
+1,0,"48","M","Obese",6,"WHITE","HISPANIC OR LATINO","USA","No","No","No","Yes","Yes",290,3.54,,,1.7,2.09,0.7,0.7
+0,1,"26","M","Obese",6,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",291,0.7,,,2.95,,,0.7
+0,0,"51","F","Obese",3,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",292,0.7,,,0.7,0.7,0.7,0.7
+1,0,"59","M","Obese",4,"WHITE","NOT HISPANIC OR LATINO","USA","Yes","No","No","No","Yes",293,5.53,,5.64,,2.62,1.7,0.7
+0,0,"35","M","Obese",6,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",294,5.78,,,,,,
+0,0,"42","F","Obese",3,"OTHER","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",295,7.85,,,,,,
+1,0,"54","F","Normal",5,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",296,6.54,,1.7,,0.7,0.7,0.7
+0,0,"21","M","Obese",9,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",297,6.27,5.57,4.71,4.24,3.12,2.4,1.7
+1,0,"47","M","Obese",7,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","Yes","No","No",298,0.7,0.7,0.7,0.7,0.7,0.7,0.7
+1,0,"74","F","Normal",9,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",299,6.21,2.46,4.04,2.6,2.71,0.7,0.7
+1,0,"35","F","Obese",8,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",300,2.17,,0.7,,0.7,0.7,0.7
+0,0,"52","M","Obese",7,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",301,6.82,,4.44,,1.7,0.7,0.7
+1,0,"59","M","Overweight",8,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",302,3.32,4.76,2.23,2.31,1.7,1.7,0.7
+0,0,"31","M","Obese",4,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",303,0.7,,,,,,
+1,0,"28","F","Obese",5,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",304,4.39,3.98,1.7,1.7,0.7,0.7,0.7
+1,0,"62","M","Overweight",5,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",305,4.33,5.68,,,3.23,0.7,1.7
+0,0,"69","M","Obese",4,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","Yes","No","Yes",306,3.9,8,3.96,2.61,1.7,0.7,0.7
+1,0,"67","F","Overweight",4,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",307,7.83,3.05,4.72,2.97,1.7,0.7,0.7
+0,0,"36","F","Obese",8,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",308,0.7,1.7,1.7,0.7,0.7,,
+1,0,"29","F","Obese",9,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","No",309,2.18,1.7,0.7,0.7,0.7,0.7,
+1,0,"21","M","Overweight",9,"OTHER","HISPANIC OR LATINO","USA","No","Yes","No","No","No",310,1.7,,0.7,,0.7,0.7,0.7
+0,0,"35","F","Obese",8,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",311,4.21,,2.89,,0.7,0.7,0.7
+0,0,"42","F","Obese",11,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",312,3.23,0.7,,1.7,0.7,0.7,0.7
+0,0,"52","F","Obese",3,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","Yes",313,5.24,4.88,3.02,1.7,2.57,1.7,0.7
+0,0,"60","F","Normal",6,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",314,2.81,0.7,0.7,0.7,1.7,0.7,1.7
+0,0,"40","F","Obese",7,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",315,4.65,,1.7,,0.7,0.7,0.7
+1,0,"59","F","Overweight",9,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",316,,5.68,1.7,1.7,0.7,,0.7
+1,0,"40","M","Overweight",6,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","No",317,,1.7,0.7,0.7,0.7,0.7,0.7
+1,0,"33","M","Obese",6,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","Yes",318,0.7,0.7,0.7,0.7,0.7,0.7,
+1,0,"25","M","Normal",8,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",319,3.6,0.7,0.7,,0.7,0.7,0.7
+1,0,"23","F","Obese",6,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",320,1.7,0.7,0.7,0.7,0.7,0.7,0.7
+0,0,"48","F","Obese",6,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",321,5.69,3.23,,,,,0.7
+0,0,"50","F","Obese",7,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",322,0.7,,0.7,,,,0.7
+1,0,"33","M","Overweight",8,"OTHER","HISPANIC OR LATINO","USA","No","Yes","No","No","No",323,0.7,,0.7,,0.7,0.7,0.7
+1,0,"41","F","Obese",7,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",324,1.7,,1.7,,1.7,0.7,0.7
+1,0,"66","M","Obese",8,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",325,2.61,,2.16,,,,0.7
+0,0,"33","M","Obese",8,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","No",326,1.7,,1.7,,0.7,,
+1,0,"36","F","Normal",4,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","No",327,5.1,,1.7,,3.66,1.7,0.7
+0,0,"53","F","Overweight",3,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",328,3.85,,0.7,,2.13,0.7,0.7
+0,0,"25","M","Normal",7,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",329,0.7,,0.7,,0.7,0.7,0.7
+1,0,"33","M","Overweight",5,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",330,1.7,,0.7,,0.7,0.7,0.7
+1,0,"38","M","Obese",7,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",331,0.7,,0.7,,0.7,0.7,0.7
+1,0,"39","M","Overweight",7,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","No",332,0.7,,0.7,,0.7,0.7,0.7
+0,0,"34","F","Overweight",8,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","No",333,0.7,,0.7,,0.7,0.7,0.7
+0,0,"51","M","Overweight",7,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","No",334,0.7,,0.7,,0.7,0.7,0.7
+0,0,"37","F","Overweight",8,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","No",335,2.03,,0.7,,0.7,0.7,0.7
+0,0,"66","F","Overweight",5,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",336,0.7,,3.63,,,1.7,
+1,0,"62","M","Normal",5,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",337,5.88,,3.39,,1.7,0.7,
+1,0,"34","M","Normal",2,"OTHER","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",338,,,,1.7,,0.7,
+0,0,"43","F","Normal",5,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",339,0.7,5.85,,,1.7,0.7,0.7
+0,0,"33","M","Obese",7,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",340,0.7,,,,,0.7,
+1,0,"59","F","Overweight",4,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","Yes",341,0.7,,,,,,
+0,0,"36","F","Obese",6,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",342,5.26,,6.06,,,0.7,0.7
+1,0,"33","M","Overweight",3,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","No",343,5.77,,2.87,,,0.7,
+0,0,"28","F","Obese",3,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",344,,,3.78,,,0.7,0.7
+0,0,"72","F","Normal",6,"OTHER","HISPANIC OR LATINO","USA","Yes","No","No","No","No",345,5.69,,0.7,0.7,0.7,,0.7
+0,1,"74","M","Overweight",6,"OTHER","HISPANIC OR LATINO","USA","Yes","No","Yes","No","No",346,6.05,,0.7,0.7,,,0.7
+0,0,"42","F","Normal",7,"WHITE","HISPANIC OR LATINO","USA","No","No","Yes","No","No",347,5.36,,2.13,1.7,1.7,,0.7
+0,0,"37","F","Normal",7,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",348,1.7,,0.7,,,0.7,0.7
+1,0,"36","F","Obese",6,"WHITE","HISPANIC OR LATINO","USA","Yes","No","No","No","Yes",349,6.11,,,2.09,0.7,0.7,0.7
+1,0,"56","F","Overweight",6,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","Yes","Yes",350,5.68,3.46,,,0.7,0.7,0.7
+0,1,"80","M","Overweight",8,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",351,4.71,3.1,,2.63,,,
+0,0,"64","M","Overweight",4,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","Yes","Yes","Yes",352,5.69,4.28,5.33,3.75,2.92,,0.7
+1,0,"45","F","Obese",10,"WHITE","NOT HISPANIC OR LATINO","USA","Yes","No","No","No","No",353,0.7,,0.7,,0.7,0.7,0.7
+1,0,"75","F","Obese",5,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","Yes","Yes","Yes",354,1.7,,1.7,,0.7,0.7,0.7
+0,0,"49","F","Overweight",9,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",355,0.7,1.7,0.7,0.7,0.7,0.7,0.7
+1,0,"51","M","",5,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",356,2.01,1.7,1.7,0.7,,0.7,0.7
+1,0,"58","M","",4,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","Yes","No","No",357,3.91,1.7,1.7,1.7,0.7,1.7,0.7
+1,0,"49","M","",6,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","Yes","No","Yes",358,4.99,2.23,2.2,1.7,1.7,0.7,0.7
+0,0,"50","M","Obese",6,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",359,5.61,3.5,2.33,1.7,1.7,,0.7
+1,0,"49","F","Obese",3,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",360,6.29,3.99,3.17,1.7,0.7,,0.7
+0,0,"48","F","Overweight",5,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",361,3.19,2.93,2.75,0.7,1.7,0.7,0.7
+1,0,"52","M","Obese",7,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",362,3.58,0.7,0.7,0.7,0.7,0.7,0.7
+0,0,"38","M","Obese",7,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",363,0.7,,0.7,,0.7,0.7,0.7
+1,0,"40","M","Normal",7,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",364,1.7,,0.7,,0.7,0.7,0.7
+1,0,"78","M","Overweight",7,"WHITE","HISPANIC OR LATINO","USA","No","No","No","Yes","Yes",365,2.91,,0.7,,1.7,0.7,0.7
+0,0,"25","F","Obese",3,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",366,8.25,4.87,5.23,3.7,1.7,1.7,1.7
+1,0,"62","F","Normal",4,"WHITE","HISPANIC OR LATINO","USA","No","No","No","Yes","No",367,5.82,3.34,2.8,2.83,2.91,1.7,1.7
+1,0,"56","M","Overweight",3,"WHITE","HISPANIC OR LATINO","USA","No","No","No","Yes","No",368,4.49,3.77,5.34,0.7,0.7,1.7,0.7
+1,0,"19","F","Obese",1,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",369,8.15,6.85,3.7,3.94,4.17,5.35,0.7
+1,0,"46","M","Obese",2,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",370,8.33,5.86,6.39,5.03,2.08,1.7,0.7
+1,0,"50","M","Obese",2,"WHITE","HISPANIC OR LATINO","USA","No","No","No","Yes","Yes",371,8.78,,,,,,
+1,0,"54","F","Obese",3,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",372,8.62,4.12,4.73,3.5,1.7,0.7,1.7
+0,0,"24","M","Overweight",1,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",373,7.81,,5.81,,5.81,,0.7
+0,0,"48","M","Overweight",4,"OTHER","HISPANIC OR LATINO","USA","No","Yes","No","No","No",374,4.77,,4.44,,1.7,1.7,
+1,0,"40","F","Obese",5,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",375,5.92,,3.47,,1.7,,0.7
+0,0,"50","F","Obese",5,"OTHER","HISPANIC OR LATINO","USA","No","No","No","Yes","Yes",376,0.7,0.7,,,0.7,0.7,0.7
+0,1,"69","M","Obese",4,"OTHER","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",377,5.76,,,,,,
+1,0,"20","F","Obese",3,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",378,5.7,5.12,,,2.05,,0.7
+0,1,"56","F","Obese",4,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",379,8.27,6.77,,,,1.7,0.7
+0,1,"31","M","Overweight",5,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","Yes","Yes",380,6.53,,6.39,,4.21,,1.7
+0,0,"63","F","Normal",2,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",381,6.65,,5.85,,6.85,3.81,0.7
+0,0,"30","F","Obese",4,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",382,6.91,,,5.08,2.72,,0.7
+0,0,"26","M","Obese",3,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",383,9,,5.98,,,,0.7
+1,0,"53","M","Obese",6,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","Yes","No",384,6.32,,3.04,,,,0.7
+0,0,"47","F","Obese",3,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",385,7.23,8.07,,,,,0.7
+1,0,"65","M","Obese",8,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",386,2.42,,,,2.07,,0.7
+1,0,"39","F","Overweight",4,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",387,6.71,,0.7,0.7,0.7,0.7,0.7
+0,0,"54","M","Obese",2,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",388,6.91,,5.95,2.65,4.23,,
+0,0,"54","F","Obese",3,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",389,0.7,,0.7,,0.7,0.7,0.7
+1,0,"58","F","Overweight",2,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","Yes","Yes",390,7.64,,5.04,,3.72,2.33,0.7
+0,0,"60","M","Overweight",2,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","Yes",391,5.71,5.72,4.09,1.7,2.71,0.7,0.7
+1,0,"63","F","Obese",4,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",392,0.7,0.7,,,,,0.7
+1,0,"48","F","",4,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",393,7.97,,3.54,,0.7,0.7,0.7
+0,0,"80","F","Overweight",4,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",394,1.7,,1.7,,1.7,,
+0,0,"64","F","Obese",6,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","No",395,6.72,,5.98,,5.44,0.7,0.7
+0,0,"50","F","Normal",4,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",396,4.89,2.18,1.7,1.7,1.7,0.7,0.7
+1,0,"33","M","Obese",6,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",397,,,1.7,,1.7,,0.7
+0,0,"47","F","Overweight",6,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","Yes","No",398,0.7,,,,,,0.7
+1,0,"47","M","Overweight",7,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","No",399,1.7,,,,0.7,,0.7
+0,0,"42","F","Normal",8,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",400,2.35,1.7,1.7,0.7,1.7,1.7,0.7
+1,0,"27","M","Overweight",9,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","No",401,1.7,,2.05,1.7,0.7,,
+0,0,"63","F","Normal",6,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",402,5.58,,,,,,
+0,0,"62","F","Overweight",10,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",403,0.7,1.7,0.7,0.7,1.7,1.7,0.7
+1,0,"38","M","Obese",6,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",404,1.7,,,,,0.7,0.7
+0,0,"41","F","Obese",7,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",405,2.67,,,3.74,2.45,0.7,0.7
+1,0,"48","M","Overweight",2,"WHITE","HISPANIC OR LATINO","USA","No","No","No","Yes","Yes",406,7.48,,6.17,,5.03,1.7,0.7
+0,0,"47","F","Obese",7,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",407,1.7,,,0.7,,0.7,0.7
+0,0,"44","F","Overweight",5,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","Yes",408,6.02,,,4.33,,,1.7
+0,0,"31","F","Obese",10,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",409,0.7,0.7,1.7,0.7,1.7,1.7,0.7
+1,0,"42","F","Obese",6,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",410,3.86,2.44,1.7,2.4,4.36,,0.7
+0,0,"41","M","Obese",2,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","Yes","No",411,2.73,2.66,1.7,,,0.7,0.7
+0,0,"42","M","Obese",6,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",412,,,,1.7,0.7,0.7,0.7
+1,0,"50","M","Normal",7,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",413,,2.8,4.74,0.7,0.7,1.7,0.7
+1,0,"51","M","Obese",7,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",414,3.16,,0.7,,0.7,,0.7
+1,0,"31","M","Overweight",5,"OTHER","HISPANIC OR LATINO","USA","No","No","No","No","Yes",415,3.94,,,0.7,,0.7,0.7
+1,0,"31","F","Obese",6,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",416,4.92,,2.54,,0.7,,0.7
+0,0,"30","F","Obese",5,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",417,4.4,1.7,,,0.7,0.7,0.7
+1,0,"46","F","Obese",7,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",418,0.7,,0.7,,0.7,,0.7
+0,0,"48","F","Obese",1,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","Yes",419,5.95,,4.65,,1.7,,0.7
+1,0,"27","F","Normal",7,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",420,2.44,,1.7,,0.7,0.7,0.7
+0,0,"55","M","Overweight",8,"WHITE","HISPANIC OR LATINO","USA","No","No","Yes","No","No",421,0.7,,0.7,,0.7,0.7,0.7
+0,0,"67","F","Overweight",4,"WHITE","HISPANIC OR LATINO","USA","No","No","No","Yes","No",422,1.7,,6.34,,2.37,0.7,0.7
+1,0,"42","F","Normal",8,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",423,0.7,,,0.7,,,0.7
+1,0,"45","F","Obese",3,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",424,0.7,0.7,0.7,,,,
+1,0,"34","M","Obese",4,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",425,,3.81,3.69,4.09,,,
+1,0,"30","F","Obese",8,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",426,,,1.7,,0.7,0.7,0.7
+0,0,"26","M","Normal",7,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",427,,,,,,,0.7
+0,0,"32","F","Obese",7,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",428,,,,,,,0.7
+0,0,"48","F","Overweight",1,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","No",429,7.68,6.3,,,2.34,1.7,0.7
+0,0,"27","F","Obese",5,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","No","No","No","No",430,0.7,,0.7,,1.7,0.7,0.7
+0,0,"54","F","Normal",7,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",431,2.89,,,2.5,,,
+0,0,"56","F","Obese",6,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",432,0.7,,,,,,0.7
+1,0,"50","M","Overweight",5,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","No",433,0.7,0.7,,,0.7,0.7,0.7
+0,0,"41","F","Normal",4,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","No",434,0.7,,,0.7,,,0.7
+1,0,"40","M","Normal",3,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","No",435,0.7,,,0.7,,,0.7
+1,0,"50","M","Obese",3,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",436,0.7,,0.7,,,,0.7
+0,0,"38","F","Normal",4,"WHITE","HISPANIC OR LATINO","USA","Yes","Yes","No","No","No",437,3.8,,3.24,,,,0.7
+0,0,"45","M","Overweight",3,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","No",438,1.7,,6.84,,2.9,,0.7
+0,0,"55","M","Overweight",3,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","No",439,0.7,0.7,,,0.7,0.7,0.7
+0,0,"35","M","Obese",6,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",440,1.7,0.7,3.54,1.7,0.7,0.7,0.7
+0,0,"52","M","Overweight",1,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","No",441,0.7,,0.7,,0.7,0.7,1.7
+1,0,"48","F","Overweight",6,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","No",442,0.7,,0.7,,0.7,0.7,0.7
+0,0,"54","F","Overweight",6,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","No",443,0.7,,0.7,,0.7,0.7,0.7
+1,0,"54","F","Obese",6,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",444,5.67,,0.7,,0.7,0.7,0.7
+0,0,"58","F","Overweight",6,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","No",445,,,4.91,,,1.7,0.7
+1,0,"27","F","Obese",2,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",446,0.7,,0.7,,0.7,0.7,0.7
+0,0,"71","M","Normal",6,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","Yes","No",447,0.7,,0.7,,0.7,0.7,0.7
+0,0,"36","M","Normal",7,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","No",448,3.94,,0.7,,0.7,0.7,0.7
+0,0,"48","M","Obese",2,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",449,2.65,,2.44,,1.7,2.4,0.7
+0,0,"41","F","Overweight",6,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","No",450,3.8,,1.7,,3.3,0.7,0.7
+0,0,"50","M","Obese",7,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",451,0.7,0.7,,,,,0.7
+1,0,"56","F","Normal",7,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","No",452,6.3,,3.4,,0.7,0.7,0.7
+0,0,"64","F","Obese",8,"WHITE","HISPANIC OR LATINO","USA","No","Yes","Yes","Yes","Yes",453,3.04,,,0.7,1.7,0.7,0.7
+0,0,"55","M","Overweight",8,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","Yes","No",454,0.7,,,0.7,0.7,0.7,0.7
+1,0,"78","F","Obese",8,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",455,0.7,,,0.7,0.7,0.7,0.7
+1,0,"45","F","Overweight",7,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","Yes",456,,,,,,1.7,0.7
+0,0,"55","F","Normal",8,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","Yes",457,,,,,,,0.7
+1,0,"55","M","Overweight",8,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","No",458,,,,,,,0.7
+1,0,"50","F","Overweight",3,"WHITE","HISPANIC OR LATINO","USA","No","No","No","Yes","No",459,,,1.7,,0.7,0.7,0.7
+1,0,"54","F","Obese",4,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","Yes",460,0.7,,0.7,,0.7,0.7,0.7
+0,0,"55","M","Obese",5,"BLACK OR AFRICAN AMERICAN","HISPANIC OR LATINO","USA","No","Yes","No","Yes","No",461,0.7,,0.7,,0.7,0.7,0.7
+1,0,"58","M","Obese",5,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","Yes","No",462,0.7,,0.7,,0.7,0.7,1.7
+1,0,"74","F","Obese",6,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",463,0.7,,0.7,,0.7,0.7,0.7
+0,0,"45","F","Obese",7,"WHITE","HISPANIC OR LATINO","USA","No","No","No","Yes","Yes",464,0.7,,0.7,,0.7,0.7,0.7
+1,0,"52","F","Obese",6,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","Yes",465,0.7,0.7,,,0.7,0.7,0.7
+0,0,"47","M","Obese",7,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","No",466,0.7,0.7,0.7,,0.7,0.7,
+1,0,"49","M","Overweight",2,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",467,9,,,2.5,1.7,0.7,0.7
+1,0,"41","F","Obese",2,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","No",468,0.7,,,0.7,,0.7,0.7
+0,0,"62","M","Normal",5,"WHITE","HISPANIC OR LATINO","USA","Yes","Yes","No","No","No",469,7.2,,,3.64,5.04,0.7,1.7
+1,0,"37","F","Normal",6,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","No",470,3.61,,1.7,,0.7,,0.7
+1,0,"51","M","Overweight",6,"BLACK OR AFRICAN AMERICAN","HISPANIC OR LATINO","USA","No","No","No","No","Yes",471,5.47,,,1.7,,3.52,0.7
+1,0,"55","F","Obese",5,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","No",472,0.7,0.7,,,,,0.7
+1,0,"22","M","Overweight",6,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","No",473,0.7,0.7,,,,,0.7
+1,0,"43","F","Overweight",3,"WHITE","HISPANIC OR LATINO","USA","No","No","No","No","Yes",474,8,5.14,,,,0.7,
+1,0,"64","F","Obese",4,"WHITE","HISPANIC OR LATINO","USA","No","No","Yes","Yes","Yes",475,0.7,0.7,,,0.7,,0.7
+1,0,"60","M","Overweight",5,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","Yes",476,0.7,,1.7,,1.7,0.7,0.7
+1,0,"50","F","Obese",3,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","No",477,0.7,1.7,,,0.7,,0.7
+0,0,"55","M","Obese",3,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","Yes","No",478,0.7,0.7,,,0.7,0.7,0.7
+0,0,"32","F","Obese",4,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","No",479,0.7,,,1.7,0.7,0.7,0.7
+0,0,"27","M","Overweight",6,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","No",480,1.7,,,0.7,0.7,0.7,0.7
+0,0,"54","M","Overweight",6,"BLACK OR AFRICAN AMERICAN","HISPANIC OR LATINO","USA","No","Yes","No","No","No",481,1.7,,,1.7,0.7,0.7,0.7
+1,0,"48","M","Obese",6,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","No",482,0.7,,,1.7,0.7,0.7,0.7
+1,0,"52","M","Overweight",2,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","Yes",483,0.7,,0.7,,,,0.7
+0,0,"39","F","Normal",4,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","No",484,0.7,,0.7,,0.7,0.7,0.7
+0,0,"59","F","Overweight",4,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","Yes",485,0.7,,,0.7,0.7,0.7,0.7
+1,0,"24","M","Overweight",5,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","No",486,0.7,0.7,,,0.7,,
+1,0,"42","F","Obese",3,"WHITE","HISPANIC OR LATINO","USA","No","Yes","No","No","No",487,0.7,0.7,,,0.7,0.7,0.7
+1,0,"42","F","Obese",6,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","USA","No","No","Yes","No","Yes",488,8,,,3.13,,,0.7
+0,0,"38","M","Obese",7,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","Yes","Yes",489,4.67,,,2.86,2.79,0.7,0.7
+0,1,"60","M","Overweight",7,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",490,2.59,,,1.7,0.7,1.7,0.7
+0,0,"18","M","Overweight",5,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",491,3.88,,,2.42,,,
+1,0,"41","F","Obese",6,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","No",492,0.7,1.7,,,1.7,,0.7
+0,0,"41","M","Overweight",5,"WHITE","NOT HISPANIC OR LATINO","USA","No","Yes","No","No","Yes",493,4.59,1.7,,,0.7,,0.7
+1,0,"40","M","Obese",4,"WHITE","NOT HISPANIC OR LATINO","USA","No","No","No","No","Yes",494,6.3,5.56,,,3.29,2.62,0.7
+1,0,"47","M","Overweight",7,"WHITE","HISPANIC OR LATINO","Non-USA","No","No","No","No","Yes",495,,,4.44,,3.03,1.7,0.7
+1,0,"49","F","Obese",7,"WHITE","HISPANIC OR LATINO","Non-USA","Yes","No","No","Yes","No",496,6.84,,2.69,,1.7,0.7,0.7
+1,0,"61","F","Obese",5,"WHITE","HISPANIC OR LATINO","Non-USA","Yes","No","No","No","No",497,2.86,,1.7,,0.7,0.7,0.7
+0,0,"40","M","Obese",9,"WHITE","HISPANIC OR LATINO","Non-USA","Yes","Yes","No","No","No",498,0.7,,0.7,,0.7,0.7,0.7
+0,0,"35","M","Obese",7,"WHITE","HISPANIC OR LATINO","Non-USA","No","No","No","Yes","No",499,4.65,,4.61,,5.32,6.72,1.7
+0,0,"55","M","Overweight",4,"WHITE","HISPANIC OR LATINO","Non-USA","Yes","No","No","Yes","Yes",500,3.45,,3.13,,1.7,2.29,0.7
+1,0,"52","M","Overweight",3,"WHITE","HISPANIC OR LATINO","Non-USA","Yes","No","No","Yes","Yes",501,3.98,,3.5,,2.14,0.7,0.7
+0,0,"61","M","Obese",3,"WHITE","HISPANIC OR LATINO","Non-USA","Yes","No","No","No","Yes",502,4.24,,1.7,,0.7,1.7,0.7
+0,0,"39","F","Overweight",8,"WHITE","HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",503,0.7,,0.7,,0.7,0.7,0.7
+1,0,"47","M","Overweight",5,"WHITE","HISPANIC OR LATINO","Non-USA","No","No","No","No","Yes",504,2.68,,2.62,,2.69,1.7,0.7
+0,0,"20","M","Obese",5,"WHITE","HISPANIC OR LATINO","Non-USA","No","No","No","Yes","No",505,0.7,,0.7,,0.7,0.7,0.7
+1,0,"36","F","Normal",3,"WHITE","HISPANIC OR LATINO","Non-USA","No","No","No","Yes","No",506,7.36,,5.72,,4.52,,1.7
+1,0,"40","F","Overweight",3,"WHITE","HISPANIC OR LATINO","Non-USA","No","No","No","Yes","No",507,6.89,,4.53,,3.52,,0.7
+1,0,"59","M","Obese",6,"WHITE","HISPANIC OR LATINO","Non-USA","No","No","No","No","Yes",508,4.44,,2.22,,0.7,2.04,0.7
+1,0,"33","F","Normal",5,"WHITE","HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",509,7.79,,5.43,,1.7,0.7,0.7
+0,0,"50","F","Obese",6,"WHITE","HISPANIC OR LATINO","Non-USA","No","No","No","No","No",510,3.96,,2.53,,0.7,0.7,0.7
+0,0,"52","M","Obese",8,"WHITE","HISPANIC OR LATINO","Non-USA","No","No","No","No","Yes",511,4.24,,0.7,,0.7,0.7,0.7
+0,0,"33","F","Obese",4,"WHITE","HISPANIC OR LATINO","Non-USA","No","No","No","No","No",512,2.8,,1.7,,0.7,0.7,0.7
+0,0,"18","F","Obese",6,"WHITE","HISPANIC OR LATINO","Non-USA","No","No","No","No","No",513,1.7,,1.7,,1.7,0.7,0.7
+0,0,"47","F","Obese",6,"WHITE","HISPANIC OR LATINO","Non-USA","No","No","No","No","No",514,0.7,,0.7,,0.7,0.7,0.7
+0,0,"67","F","Normal",5,"WHITE","HISPANIC OR LATINO","Non-USA","No","No","Yes","No","No",515,4.06,,3.24,,2.83,1.7,0.7
+0,0,"43","F","Obese",8,"WHITE","HISPANIC OR LATINO","Non-USA","No","No","No","No","No",516,5.09,,3.1,,1.7,,
+0,0,"47","M","Obese",2,"WHITE","HISPANIC OR LATINO","Non-USA","No","No","No","No","No",517,8,,4.3,,2.93,,
+1,0,"46","F","Normal",8,"WHITE","HISPANIC OR LATINO","Non-USA","No","No","No","No","Yes",518,3.92,,4.3,,3.13,2.53,
+1,1,"46","F","Obese",5,"WHITE","HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",519,6.2,,2.5,,,1.7,0.7
+0,0,"37","M","Obese",8,"WHITE","HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",520,,,2.76,,2.24,,0.7
+0,0,"33","F","Obese",7,"WHITE","HISPANIC OR LATINO","Non-USA","No","No","No","No","No",521,,,0.7,,0.7,,0.7
+1,0,"66","M","Obese",6,"WHITE","HISPANIC OR LATINO","Non-USA","Yes","No","No","Yes","Yes",522,,,3.63,,3.04,2.03,0.7
+1,0,"50","M","Obese",3,"WHITE","HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",523,,,3.53,,0.7,0.7,0.7
+0,0,"51","F","Obese",4,"WHITE","HISPANIC OR LATINO","Non-USA","No","No","No","No","No",524,,,3.08,,1.7,0.7,0.7
+1,0,"47","M","Overweight",9,"WHITE","HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",525,4.03,,1.7,,1.7,0.7,0.7
+1,0,"34","F","Overweight",5,"WHITE","HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",526,5.25,,2.26,,2.31,0.7,1.7
+1,0,"34","M","Overweight",3,"WHITE","HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",527,7,,3.04,,0.7,0.7,0.7
+0,0,"28","F","Normal",5,"WHITE","HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",528,3.33,,3.39,,,0.7,
+1,1,"30","M","Obese",3,"WHITE","HISPANIC OR LATINO","Non-USA","No","No","No","No","No",529,3.27,,0.7,,,0.7,0.7
+0,0,"51","F","Obese",7,"WHITE","HISPANIC OR LATINO","Non-USA","No","No","No","No","Yes",530,6.07,,3.49,,,1.7,
+0,0,"59","M","Obese",7,"WHITE","HISPANIC OR LATINO","Non-USA","No","No","No","No","No",531,5.57,,4.14,,,2.32,
+1,0,"25","F","Normal",2,"WHITE","HISPANIC OR LATINO","Non-USA","No","No","No","No","No",532,1.7,,1.7,,0.7,4.91,0.7
+1,0,"27","F","Obese",4,"WHITE","HISPANIC OR LATINO","Non-USA","No","No","No","No","No",533,2.33,,1.7,,,0.7,0.7
+1,0,"68","F","Overweight",2,"WHITE","HISPANIC OR LATINO","Non-USA","Yes","No","No","No","Yes",534,7.92,,2.94,,1.7,0.7,0.7
+0,0,"61","F","Overweight",3,"WHITE","HISPANIC OR LATINO","Non-USA","No","No","No","Yes","No",535,2.73,,2.19,,,0.7,0.7
+0,0,"30","M","Overweight",6,"WHITE","HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",536,,,,,0.7,0.7,0.7
+1,0,"30","M","Normal",6,"WHITE","HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",537,,,1.7,,1.7,0.7,0.7
+1,0,"29","F","Normal",4,"WHITE","HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",538,,,2.07,,1.7,1.7,0.7
+0,0,"62","M","Obese",4,"WHITE","HISPANIC OR LATINO","Non-USA","No","Yes","No","No","Yes",539,,,0.7,,0.7,0.7,0.7
+1,0,"58","F","Overweight",3,"WHITE","HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",540,,,0.7,,0.7,0.7,0.7
+1,0,"31","F","Normal",3,"WHITE","HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",541,,,,,0.7,0.7,0.7
+1,0,"40","F","Obese",3,"WHITE","HISPANIC OR LATINO","Non-USA","Yes","No","No","No","No",542,5.91,,,,4.77,0.7,0.7
+1,0,"41","F","Obese",6,"WHITE","HISPANIC OR LATINO","Non-USA","Yes","Yes","No","No","No",543,4.95,,,,0.7,0.7,0.7
+0,0,"35","M","Obese",4,"WHITE","HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",544,,,3.76,,3.3,0.7,0.7
+0,0,"57","M","Obese",4,"WHITE","HISPANIC OR LATINO","Non-USA","No","No","Yes","No","Yes",545,,,2.95,,2.47,1.7,0.7
+0,1,"56","M","Obese",5,"WHITE","HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",546,,,4.6,,,,0.7
+1,0,"42","F","Obese",3,"WHITE","HISPANIC OR LATINO","Non-USA","Yes","No","No","No","Yes",547,,,1.7,,0.7,0.7,0.7
+1,0,"35","M","Obese",3,"WHITE","HISPANIC OR LATINO","Non-USA","Yes","No","No","No","No",548,,,3.98,,1.7,0.7,0.7
+1,0,"31","F","Normal",2,"WHITE","HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",549,,,1.7,,2.63,0.7,0.7
+1,0,"40","M","Normal",3,"WHITE","HISPANIC OR LATINO","Non-USA","No","No","No","No","No",550,,,4.69,,0.7,0.7,0.7
+1,0,"34","F","Normal",3,"WHITE","HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",551,1.7,,1.7,,1.7,0.7,0.7
+1,0,"62","F","Overweight",4,"WHITE","HISPANIC OR LATINO","Non-USA","No","No","No","No","No",552,0.7,,0.7,,0.7,0.7,0.7
+1,0,"54","M","Obese",2,"WHITE","HISPANIC OR LATINO","Non-USA","No","No","No","No","No",553,2.4,,0.7,,0.7,0.7,0.7
+0,0,"69","M","Obese",7,"WHITE","HISPANIC OR LATINO","Non-USA","No","No","No","No","Yes",554,6.3,,2.74,,1.7,1.7,0.7
+1,0,"49","M","Obese",6,"WHITE","HISPANIC OR LATINO","Non-USA","No","No","No","Yes","No",555,2.64,,2.98,,1.7,0.7,0.7
+0,0,"55","F","Obese",7,"WHITE","HISPANIC OR LATINO","Non-USA","No","Yes","No","Yes","Yes",556,,,3.86,,1.7,0.7,0.7
+0,0,"61","F","Normal",4,"WHITE","HISPANIC OR LATINO","Non-USA","No","No","No","No","No",557,8,,6.3,,2.93,0.7,0.7
+1,0,"30","M","Obese",10,"WHITE","HISPANIC OR LATINO","Non-USA","No","No","No","No","No",558,4.93,,3.17,,3.58,1.7,
+1,0,"53","M","Obese",9,"WHITE","HISPANIC OR LATINO","Non-USA","No","No","No","No","No",559,4.81,,1.7,,1.7,3.17,0.7
+0,0,"56","F","Obese",8,"WHITE","HISPANIC OR LATINO","Non-USA","No","No","No","No","Yes",560,4.55,,1.7,,1.7,0.7,1.7
+0,0,"57","M","Overweight",10,"WHITE","HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",561,2.59,,0.7,,0.7,,0.7
+1,0,"51","M","Obese",5,"WHITE","HISPANIC OR LATINO","Non-USA","No","No","No","No","Yes",562,8,,,,,5.44,1.7
+0,0,"42","F","Overweight",9,"WHITE","HISPANIC OR LATINO","Non-USA","No","No","No","No","Yes",563,6.15,,3.78,,3.47,2.87,2.47
+1,0,"46","M","Normal",6,"WHITE","HISPANIC OR LATINO","Non-USA","No","No","No","No","No",564,8,,4.14,,2.52,2.19,0.7
+1,0,"46","F","Obese",9,"WHITE","HISPANIC OR LATINO","Non-USA","Yes","No","No","Yes","No",565,2.25,,1.7,,0.7,0.7,0.7
+0,0,"38","F","Overweight",4,"WHITE","HISPANIC OR LATINO","Non-USA","No","No","No","No","No",566,,,5.38,,2.42,3.68,0.7
+0,0,"56","F","Obese",8,"WHITE","HISPANIC OR LATINO","Non-USA","No","No","No","No","No",567,2.78,,,,1.7,0.7,0.7
+1,0,"49","M","Obese",5,"WHITE","HISPANIC OR LATINO","Non-USA","No","No","No","Yes","Yes",568,8,,4.71,,4.46,1.7,0.7
+0,1,"64","M","Obese",5,"WHITE","HISPANIC OR LATINO","Non-USA","Yes","No","No","Yes","Yes",569,8,,6.77,,,,0.7
+0,0,"68","F","Overweight",9,"WHITE","HISPANIC OR LATINO","Non-USA","Yes","Yes","No","No","Yes",570,4.17,,0.7,,0.7,0.7,1.7
+1,0,"60","M","Obese",8,"WHITE","HISPANIC OR LATINO","Non-USA","Yes","No","No","No","Yes",571,1.7,,,,2.63,0.7,0.7
+0,0,"64","F","Obese",10,"WHITE","HISPANIC OR LATINO","Non-USA","Yes","No","No","Yes","Yes",572,2.34,,3.37,,1.7,1.7,1.7
+1,0,"64","M","Obese",8,"WHITE","HISPANIC OR LATINO","Non-USA","No","No","No","No","Yes",573,6.26,,4.32,,3.04,1.7,1.7
+0,0,"61","F","Obese",10,"WHITE","HISPANIC OR LATINO","Non-USA","Yes","No","No","No","Yes",574,3.46,,2.66,,1.7,1.7,0.7
+0,0,"60","M","Overweight",8,"WHITE","HISPANIC OR LATINO","Non-USA","Yes","Yes","No","No","No",575,4.39,,2.2,,1.7,0.7,0.7
+0,0,"70","F","Normal",5,"WHITE","HISPANIC OR LATINO","Non-USA","Yes","No","No","No","No",576,7.33,,4.7,,2.4,0.7,0.7
+1,0,"46","M","Normal",8,"WHITE","HISPANIC OR LATINO","Non-USA","No","No","No","No","Yes",577,4.55,,2.89,,3.49,3.08,2.62
+1,0,"65","M","Overweight",10,"WHITE","HISPANIC OR LATINO","Non-USA","No","No","No","No","No",578,2.42,,1.7,,1.7,0.7,0.7
+0,0,"72","F","Obese",7,"WHITE","HISPANIC OR LATINO","Non-USA","Yes","No","No","Yes","No",579,4.87,,1.7,,1.7,0.7,0.7
+1,0,"64","F","Obese",4,"WHITE","HISPANIC OR LATINO","Non-USA","Yes","No","No","No","No",580,,,4.13,,2.17,1.7,0.7
+0,0,"63","F","Obese",9,"WHITE","HISPANIC OR LATINO","Non-USA","No","No","No","No","No",581,2.27,,1.7,,1.7,1.7,0.7
+0,0,"52","F","Obese",8,"WHITE","HISPANIC OR LATINO","Non-USA","Yes","Yes","No","Yes","No",582,3.99,,2.53,,1.7,1.7,0.7
+1,0,"59","M","Overweight",8,"WHITE","HISPANIC OR LATINO","Non-USA","Yes","No","No","No","No",583,5.11,,3.22,,1.7,1.7,0.7
+0,0,"44","F","Obese",6,"WHITE","HISPANIC OR LATINO","Non-USA","Yes","No","No","Yes","No",584,3.85,,1.7,,,0.7,0.7
+0,0,"32","M","Normal",2,"WHITE","HISPANIC OR LATINO","Non-USA","Yes","No","No","No","No",585,6.79,6.73,,,2.87,0.7,0.7
+1,0,"30","M","Overweight",3,"WHITE","HISPANIC OR LATINO","Non-USA","Yes","Yes","No","No","No",586,7.8,,2.8,,0.7,0.7,0.7
+0,0,"33","F","Obese",4,"WHITE","HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",587,4.55,,,3,3.56,0.7,0.7
+1,0,"36","M","Normal",2,"WHITE","HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",588,6.9,,,1.7,0.7,0.7,0.7
+0,0,"49","F","Overweight",8,"BLACK OR AFRICAN AMERICAN","HISPANIC OR LATINO","Non-USA","Yes","No","No","No","No",589,3,,2.33,,,,0.7
+1,0,"60","M","Overweight",9,"OTHER","HISPANIC OR LATINO","Non-USA","Yes","No","No","No","No",590,3.87,,,1.7,1.7,,0.7
+0,0,"42","M","Overweight",6,"WHITE","HISPANIC OR LATINO","Non-USA","Yes","No","No","No","Yes",591,6.03,,3.59,,1.7,0.7,0.7
+0,0,"65","M","Overweight",5,"WHITE","HISPANIC OR LATINO","Non-USA","Yes","No","Yes","No","Yes",592,7.16,,5.38,,2.95,1.7,0.7
+1,0,"55","M","Obese",5,"WHITE","HISPANIC OR LATINO","Non-USA","Yes","No","No","No","Yes",593,6.54,,4.18,,2.4,1.7,0.7
+1,0,"57","F","Obese",7,"WHITE","HISPANIC OR LATINO","Non-USA","Yes","No","No","Yes","Yes",594,3.41,3.42,,,0.7,1.7,1.7
+0,0,">80","F","Normal",7,"WHITE","HISPANIC OR LATINO","Non-USA","Yes","No","Yes","No","Yes",595,5.69,2.56,,,1.7,0.7,0.7
+0,0,"61","F","Overweight",2,"WHITE","HISPANIC OR LATINO","Non-USA","Yes","No","No","Yes","Yes",596,6.97,7.56,,,3.53,0.7,0.7
+1,0,"47","F","Obese",2,"WHITE","HISPANIC OR LATINO","Non-USA","Yes","No","No","No","Yes",597,0.7,,0.7,,0.7,0.7,0.7
+1,0,"60","F","Normal",3,"WHITE","HISPANIC OR LATINO","Non-USA","Yes","No","No","No","No",598,7.67,,4.01,,2.12,1.7,0.7
+1,0,"49","F","Obese",6,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","No","No","No","Yes",599,4.81,,1.7,,1.7,1.7,0.7
+0,0,"34","F","Overweight",8,"WHITE","HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",600,3.85,,1.7,,1.7,0.7,0.7
+1,0,"77","F","Overweight",5,"WHITE","HISPANIC OR LATINO","Non-USA","Yes","No","No","No","No",601,6.42,,3.75,,,1.7,1.7
+1,0,"39","M","Underweight",6,"WHITE","HISPANIC OR LATINO","Non-USA","No","No","No","No","No",602,6.4,,6.49,,4.97,7.94,0.7
+0,0,"30","M","Normal",7,"WHITE","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",603,5.18,,4,,,0.7,0.7
+0,0,"58","M","Overweight",7,"BLACK OR AFRICAN AMERICAN","HISPANIC OR LATINO","Non-USA","Yes","No","No","No","Yes",604,4.73,,2.59,,2.49,1.7,0.7
+1,1,"68","M","Obese",5,"OTHER","HISPANIC OR LATINO","Non-USA","Yes","No","No","Yes","No",605,7.5,,5.07,,2.48,,0.7
+1,0,"35","F","Obese",6,"BLACK OR AFRICAN AMERICAN","HISPANIC OR LATINO","Non-USA","No","No","No","No","No",606,2.61,,0.7,,0.7,,0.7
+1,0,"51","M","Overweight",5,"OTHER","HISPANIC OR LATINO","Non-USA","Yes","No","No","No","Yes",607,3.87,,0.7,,0.7,0.7,0.7
+0,0,"40","M","Normal",1,"OTHER","NOT HISPANIC OR LATINO","Non-USA","Yes","Yes","No","No","No",608,6.97,,6.99,,2.14,0.7,0.7
+0,0,"78","M","Obese",8,"WHITE","HISPANIC OR LATINO","Non-USA","Yes","No","Yes","No","Yes",609,4.05,,3.05,,0.7,2.66,0.7
+0,0,"53","F","Overweight",4,"BLACK OR AFRICAN AMERICAN","HISPANIC OR LATINO","Non-USA","Yes","No","No","No","Yes",610,7.84,,4.14,,1.7,0.7,0.7
+1,0,"62","M","Overweight",6,"OTHER","NOT HISPANIC OR LATINO","Non-USA","Yes","No","No","No","No",611,6.48,,1.7,,,,0.7
+0,0,"40","M","Obese",4,"WHITE","NOT HISPANIC OR LATINO","Non-USA","Yes","No","No","No","No",612,4.51,,3.59,,1.7,0.7,0.7
+1,0,"25","M","Normal",7,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","No","No","Yes","No",613,1.7,,0.7,,,,0.7
+0,0,"74","F","Overweight",4,"WHITE","HISPANIC OR LATINO","Non-USA","Yes","No","No","No","Yes",614,4.65,,4.92,,1.7,0.7,0.7
+0,0,"62","M","Overweight",10,"WHITE","HISPANIC OR LATINO","Non-USA","Yes","Yes","No","No","No",615,0.7,,0.7,,0.7,0.7,0.7
+0,0,"42","M","Normal",5,"WHITE","HISPANIC OR LATINO","Non-USA","Yes","Yes","No","No","No",616,1.7,,0.7,,0.7,0.7,0.7
+0,0,"54","F","Obese",3,"OTHER","HISPANIC OR LATINO","Non-USA","Yes","Yes","No","No","Yes",617,7.73,,4.8,,1.7,0.7,0.7
+1,0,"79","M","Normal",8,"WHITE","HISPANIC OR LATINO","Non-USA","Yes","No","No","No","No",618,5.94,,3.78,,1.7,1.7,0.7
+1,0,"63","F","Overweight",6,"OTHER","HISPANIC OR LATINO","Non-USA","No","No","No","No","No",619,6.75,,4.31,,,1.7,1.7
+0,0,"43","F","Overweight",7,"OTHER","HISPANIC OR LATINO","Non-USA","Yes","Yes","No","No","No",620,5.22,,1.7,,0.7,,3.15
+1,0,"38","F","Obese",6,"OTHER","HISPANIC OR LATINO","Non-USA","No","No","No","Yes","Yes",621,6.7,,5.24,,3.47,,0.7
+0,0,"64","M","Obese",4,"OTHER","HISPANIC OR LATINO","Non-USA","Yes","No","Yes","No","Yes",622,6.75,,4.27,,3.62,,0.7
+1,0,"32","F","Overweight",6,"OTHER","HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",623,3.05,,3.01,,0.7,0.7,1.7
+0,0,"23","F","Obese",7,"OTHER","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",624,6.44,,4.12,,3.65,0.7,0.7
+0,0,"55","F","Obese",3,"OTHER","NOT HISPANIC OR LATINO","Non-USA","No","No","No","Yes","Yes",625,7.91,,5.08,,3.06,3.56,0.7
+0,0,"35","F","Normal",2,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","No","No","No","Yes",626,7.75,,,3.05,2.01,0.7,0.7
+1,0,"23","M","Normal",2,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",627,7.54,,,2.37,1.7,0.7,0.7
+0,0,"38","M","Overweight",10,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","No","No","Yes","Yes",628,0.7,,0.7,,0.7,,0.7
+0,0,"45","M","Normal",1,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","No","No","No","No",629,5.26,,,5.46,3.08,1.7,0.7
+1,0,"35","M","Obese",8,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",630,0.7,,0.7,,0.7,0.7,0.7
+1,0,"41","M","Normal",8,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",631,3.15,,,0.7,,1.7,0.7
+1,0,"24","F","Overweight",10,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",632,0.7,,0.7,,0.7,0.7,0.7
+0,0,"55","F","Normal",8,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","No","No","No","No",633,3.85,,0.7,,0.7,0.7,0.7
+0,0,"19","M","Normal",9,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",634,0.7,,0.7,,,0.7,0.7
+1,0,"49","F","Obese",10,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","No","No","No","Yes",635,3.13,,3.39,,0.7,0.7,1.7
+1,0,"43","M","Normal",10,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",636,6.11,,3.19,,2.74,1.7,0.7
+0,0,"37","M","Normal",4,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",637,3.16,1.7,,,0.7,0.7,0.7
+0,0,"25","M","Normal",10,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",638,0.7,,0.7,,0.7,0.7,0.7
+1,0,"64","F","Obese",8,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","No","No","No","Yes",639,0.7,,0.7,,0.7,0.7,0.7
+1,0,"56","M","Overweight",6,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","No","No","No","Yes",640,4.78,,,,1.7,1.7,0.7
+1,0,"61","M","Obese",10,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","No","No","No","Yes",641,1.7,,1.7,,0.7,0.7,0.7
+1,0,"55","M","Overweight",9,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",642,2.23,4.36,,,3.02,1.7,1.7
+0,0,"54","F","Overweight",9,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",643,0.7,,0.7,,0.7,0.7,0.7
+0,0,"58","M","Normal",8,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","No","No","No","No",644,0.7,,,,,,
+1,0,"49","M","Normal",10,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","No","No","No","Yes",645,0.7,,0.7,,0.7,0.7,0.7
+1,0,"57","M","Overweight",10,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","No","No","No","Yes",646,1.7,0.7,,,0.7,0.7,0.7
+1,0,"63","M","Normal",10,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","No","No","No","Yes",647,2.28,,,1.7,0.7,0.7,0.7
+1,0,"60","M","Normal",10,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","No","No","Yes","Yes",648,2.05,,3.4,,0.7,0.7,1.7
+0,0,"29","F","Normal",9,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",649,0.7,,0.7,,0.7,0.7,0.7
+1,0,"55","F","Obese",7,"WHITE","NOT HISPANIC OR LATINO","Non-USA","No","No","No","No","No",650,6.85,,3.51,,1.7,0.7,0.7
+1,0,"40","M","Overweight",7,"WHITE","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",651,2.04,,2.41,,0.7,0.7,0.7
+0,0,"36","F","Normal",4,"WHITE","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",652,5.98,,5.51,,2.22,0.7,0.7
+1,0,"40","F","Normal",10,"WHITE","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",653,0.7,,0.7,,0.7,0.7,0.7
+0,0,"68","M","Normal",7,"WHITE","NOT HISPANIC OR LATINO","Non-USA","No","No","No","No","No",654,5.41,,3.97,,1.7,0.7,0.7
+0,0,"62","F","Overweight",8,"WHITE","NOT HISPANIC OR LATINO","Non-USA","No","No","No","No","No",655,3.89,,2.8,,2.15,1.7,0.7
+1,0,"72","F","Normal",4,"WHITE","NOT HISPANIC OR LATINO","Non-USA","No","No","No","No","Yes",656,5.2,,4.74,,1.7,0.7,2.8
+1,0,"74","F","Obese",5,"WHITE","NOT HISPANIC OR LATINO","Non-USA","No","No","No","No","Yes",657,6.9,,5.12,,3.54,0.7,0.7
+0,0,"56","M","Overweight",5,"WHITE","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","Yes",658,5.58,,3.84,,1.7,0.7,0.7
+1,0,"49","M","Overweight",9,"OTHER","NOT HISPANIC OR LATINO","Non-USA","No","No","No","Yes","No",659,6.51,,4.69,,1.7,0.7,0.7
+0,1,"51","F","Obese",7,"OTHER","NOT HISPANIC OR LATINO","Non-USA","No","No","No","No","Yes",660,7.91,,6.25,,2.99,,
+1,0,"80","M","Normal",5,"WHITE","NOT HISPANIC OR LATINO","Non-USA","No","No","No","No","No",661,4.99,,3.51,,1.7,0.7,0.7
+0,0,"39","F","Obese",5,"WHITE","NOT HISPANIC OR LATINO","Non-USA","No","No","No","No","No",662,4.86,,3.19,,0.7,0.7,0.7
+1,0,"43","M","Obese",6,"WHITE","NOT HISPANIC OR LATINO","Non-USA","No","No","No","No","Yes",663,4,,,2.13,3.41,0.7,0.7
+1,0,"22","F","Obese",4,"WHITE","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",664,5.88,,5.78,,3.26,1.7,0.7
+0,0,"29","F","Obese",5,"WHITE","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","Yes",665,7.05,,2.63,,1.7,0.7,0.7
+1,0,"66","F","Obese",4,"WHITE","NOT HISPANIC OR LATINO","Non-USA","Yes","No","No","No","Yes",666,0.7,,0.7,,0.7,0.7,0.7
+0,0,"40","M","Overweight",7,"WHITE","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",667,6.36,,5.27,,2.2,2.37,0.7
+0,0,"45","M","Overweight",7,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","No","No","No","Yes",668,5.75,,1.7,,2.46,0.7,0.7
+0,0,"48","M","Obese",7,"WHITE","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",669,3,,,3.8,1.7,,0.7
+1,0,"45","F","Obese",8,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","No","No","No","No",670,5.99,,0.7,,,,0.7
+1,0,"23","M","Normal",3,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",671,5.17,1.7,,,,,0.7
+0,0,"49","F","Obese",3,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","No","No","Yes","No",672,1.7,,,0.7,1.7,0.7,0.7
+1,0,"34","M","Normal",6,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",673,0.7,,0.7,,1.7,0.7,0.7
+1,0,"78","M","Underweight",7,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",674,1.7,,0.7,,3.62,0.7,0.7
+0,0,"38","M","Overweight",3,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","Yes",675,0.7,,0.7,,0.7,1.7,0.7
+0,0,"32","M","Overweight",3,"WHITE","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",676,1.7,2.44,,,1.7,,0.7
+1,0,"20","F","Underweight",4,"OTHER","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",677,4.49,,,1.7,1.7,0.7,0.7
+1,0,"56","F","Overweight",5,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",678,3.17,,,0.7,1.7,1.7,0.7
+1,0,"53","M","Overweight",3,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","No","No","No","Yes",679,4.1,,,1.7,0.7,0.7,0.7
+1,0,"18","M","Normal",6,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",680,6.58,,1.7,,1.7,1.7,0.7
+1,0,"30","M","Normal",4,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",681,7.09,,,2.23,1.7,1.7,0.7
+1,0,"40","M","Obese",7,"BLACK OR AFRICAN AMERICAN","HISPANIC OR LATINO","Non-USA","No","No","No","No","Yes",682,4.14,0.7,,,,0.7,0.7
+1,0,"32","F","Obese",9,"WHITE","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","Yes","Yes",683,7.07,,3.06,,,0.7,0.7
+1,0,"71","M","Obese",5,"WHITE","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","Yes",684,6.75,,3.43,,1.7,1.7,0.7
+0,0,"64","M","Obese",3,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","Yes","No",685,6.67,,2.69,,1.7,1.7,0.7
+0,0,"71","F","Obese",5,"OTHER","NOT HISPANIC OR LATINO","Non-USA","No","No","No","Yes","Yes",686,7.61,,6.03,,4.52,3.42,0.7
+0,0,"76","M","Overweight",5,"OTHER","NOT HISPANIC OR LATINO","Non-USA","No","No","Yes","No","No",687,5.46,,3.8,,2.82,0.7,0.7
+0,0,"26","M","Normal",4,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","No","No","No","No",688,1.7,,0.7,,0.7,0.7,0.7
+1,0,"57","F","Overweight",6,"OTHER","NOT HISPANIC OR LATINO","Non-USA","No","No","No","Yes","No",689,6.59,,4.6,,2.47,0.7,0.7
+1,0,"62","M","Obese",3,"OTHER","NOT HISPANIC OR LATINO","Non-USA","No","No","No","Yes","Yes",690,7.47,,6.07,,4.89,1.7,0.7
+0,0,"48","F","Normal",7,"OTHER","NOT HISPANIC OR LATINO","Non-USA","No","No","No","No","No",691,,,3.59,,1.7,0.7,0.7
+0,0,"57","F","Obese",8,"OTHER","NOT HISPANIC OR LATINO","Non-USA","No","No","No","No","No",692,1.7,,2.16,,,1.7,0.7
+1,0,"45","M","Overweight",5,"OTHER","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",693,2.99,,1.7,,1.7,0.7,0.7
+1,0,"60","M","Obese",8,"OTHER","NOT HISPANIC OR LATINO","Non-USA","No","No","No","Yes","Yes",694,1.7,,0.7,,,0.7,0.7
+1,0,"32","F","Overweight",7,"OTHER","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",695,1.7,,0.7,,,0.7,0.7
+1,0,"40","F","Obese",8,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",696,2.95,,,1.7,1.7,0.7,0.7
+0,0,"34","F","Normal",6,"OTHER","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",697,3.7,,2.97,,1.7,1.7,0.7
+1,0,"35","F","Overweight",9,"OTHER","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",698,7.24,,3.96,,3.45,1.7,0.7
+1,0,"35","F","Overweight",3,"OTHER","NOT HISPANIC OR LATINO","Non-USA","No","No","No","No","Yes",699,8.34,,5.23,,2.1,2.8,0.7
+0,0,"48","F","Overweight",7,"OTHER","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",700,5.81,,,6.4,1.7,0.7,0.7
+0,0,"41","F","Obese",7,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","No","No","No","Yes",701,0.7,,0.7,,0.7,0.7,0.7
+1,0,"53","M","Overweight",2,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","No","No","Yes","No",702,3.7,,3.73,,0.7,0.7,0.7
+0,0,"44","F","Obese",5,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","No","No","No","Yes",703,5.36,,1.7,,0.7,,0.7
+1,0,"51","F","Obese",3,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","No","No","No","Yes",704,2.27,,2.1,,1.7,2.69,0.7
+1,0,"48","F","Obese",8,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","No","No","No","Yes",705,6.41,,2.33,,4.16,1.7,0.7
+0,0,"53","M","Overweight",3,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","Yes","Yes",706,6.12,,4.41,,3.82,0.7,0.7
+0,0,"48","M","Normal",4,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",707,3.38,,4.3,,5.01,,0.7
+1,0,"29","M","Normal",4,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",708,3.26,,0.7,,0.7,0.7,0.7
+0,0,"49","M","Normal",3,"OTHER","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",709,3.41,,2.15,,0.7,0.7,0.7
+1,0,"49","F","Normal",5,"WHITE","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","Yes","No",710,2.81,,2.37,,1.7,0.7,0.7
+0,0,"55","M","Overweight",5,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",711,1.7,,1.7,,0.7,0.7,0.7
+0,0,"45","M","Overweight",4,"OTHER","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",712,6.6,,4.91,,1.7,0.7,0.7
+1,0,"42","F","Overweight",2,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","No","No","No","Yes",713,0.7,,0.7,,0.7,0.7,0.7
+0,0,"47","M","Normal",7,"OTHER","NOT HISPANIC OR LATINO","Non-USA","No","No","No","No","Yes",714,0.7,,0.7,,0.7,0.7,0.7
+1,0,"41","F","Obese",8,"OTHER","NOT HISPANIC OR LATINO","Non-USA","No","No","No","No","No",715,0.7,,0.7,,1.7,0.7,0.7
+1,0,"21","F","Normal",7,"OTHER","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",716,1.7,,0.7,,0.7,0.7,0.7
+1,0,"46","F","Obese",7,"OTHER","NOT HISPANIC OR LATINO","Non-USA","No","No","No","Yes","No",717,0.7,,0.7,,,0.7,0.7
+1,0,"51","F","Overweight",7,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","No","No","No","Yes",718,4.28,,4.21,,2.38,0.7,0.7
+1,0,"43","F","Obese",8,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","No","No","No","Yes",719,5.31,,1.7,,0.7,0.7,0.7
+0,0,"18","M","Normal",6,"OTHER","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",720,0.7,,0.7,,0.7,0.7,0.7
+0,0,"56","M","Overweight",7,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",721,1.7,,0.7,,0.7,0.7,0.7
+1,0,"45","F","Obese",8,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","No","No","No","No",722,3.1,,0.7,,0.7,0.7,0.7
+0,0,"50","M","Obese",7,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","No","No","No","No",723,2.37,,0.7,,1.7,0.7,0.7
+1,0,"56","F","Normal",4,"OTHER","NOT HISPANIC OR LATINO","Non-USA","No","No","No","Yes","No",724,4.37,,0.7,,0.7,0.7,1.7
+1,0,"29","F","Overweight",8,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",725,1.7,,0.7,,0.7,0.7,0.7
+0,0,"51","F","Obese",7,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","No","No","No","Yes",726,0.7,,,,,,
+1,0,"40","F","Obese",5,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","No","No","No","No",727,2.09,,0.7,,1.7,0.7,0.7
+1,0,"43","M","Obese",3,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","No","No","Yes","Yes",728,7.36,,3.85,,1.7,0.7,0.7
+0,0,"58","M","Overweight",3,"OTHER","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","Yes","No",729,1.7,,0.7,,0.7,0.7,0.7
+1,0,"57","F","Overweight",3,"OTHER","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",730,3.53,,0.7,,1.7,0.7,0.7
+1,0,"48","M","Overweight",3,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","Yes",731,0.7,,6.33,,2.44,0.7,
+0,0,"35","M","Normal",4,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","Yes","No",732,4.97,,0.7,,1.7,0.7,2.91
+0,0,"59","M","Overweight",3,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","Yes",733,2.9,,1.7,,1.7,0.7,0.7
+1,0,"39","F","Overweight",4,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","No","No","No","Yes",734,4.46,,0.7,,0.7,0.7,0.7
+1,0,"49","M","Obese",4,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",735,1.7,,1.7,,0.7,0.7,0.7
+1,0,"41","F","Normal",3,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",736,5.46,,4.08,,0.7,0.7,
+1,0,"45","M","Overweight",3,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","No",737,6.82,,1.7,,0.7,0.7,
+1,0,"51","M","Obese",6,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","No","No","No","Yes",738,0.7,,0.7,,0.7,0.7,0.7
+0,0,"47","F","Normal",4,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","No","No","No","No",739,3.88,,1.7,,1.7,0.7,0.7
+0,0,"55","F","",6,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","No","No","No","Yes",740,3.66,,0.7,,0.7,0.7,0.7
+1,0,"50","M","Overweight",4,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","No","Yes","No","No",741,2.39,,0.7,,0.7,0.7,0.7
+0,0,"50","M","Normal",4,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","No","No","No","Yes",742,1.7,,0.7,,1.7,0.7,0.7
+0,0,"39","M","Obese",2,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","No","No","No","No",743,5.17,,5.48,,,,0.7
+1,0,"57","M","Normal",4,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","Yes",744,5.55,,,6.03,,,0.7
+1,0,"65","M","Obese",8,"WHITE","NOT HISPANIC OR LATINO","Non-USA","No","No","No","No","No",745,1.7,,1.7,,0.7,0.7,0.7
+0,0,"54","F","Obese",4,"OTHER","NOT HISPANIC OR LATINO","Non-USA","No","Yes","No","No","Yes",746,6.31,6.22,,,,0.7,0.7
+0,0,"41","F","Obese",6,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","No","No","No","Yes",747,3.1,,2.61,,1.7,0.7,0.7
+1,0,"45","M","Obese",6,"BLACK OR AFRICAN AMERICAN","NOT HISPANIC OR LATINO","Non-USA","No","No","No","Yes","No",748,4.76,,2.53,,1.7,0.7,0.7
+0,0,"31","F","Obese",2,"OTHER","NOT HISPANIC OR LATINO","Non-USA","Yes","Yes","No","No","No",749,0.7,,0.7,,0.7,0.7,0.7

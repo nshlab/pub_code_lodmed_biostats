@@ -1,0 +1,7 @@
+dir.create("results/logs", recursive=TRUE, showWarnings=FALSE)
+sink("results/logs/application_session_info.txt")
+cat("Application environment report\nGenerated: ", format(Sys.time(), "%Y-%m-%d %H:%M:%S %Z"), "\n", sep="")
+cat("RNGkind: ", paste(RNGkind(),collapse=", "), "\n", sep="")
+print(sessionInfo())
+sink()
+cat("Session info saved to results/logs/application_session_info.txt\n")
